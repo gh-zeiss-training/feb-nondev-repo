@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Jeffs Slide"
 ---
 
-Caption here
+This is a caption showcasing a small Pull Request on Github.com 
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
